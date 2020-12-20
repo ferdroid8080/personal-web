@@ -13,3 +13,20 @@
 .Card--Body {
   padding: 0.2rem;
 }
+
+.Card--Header {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.Card--Icons--Actions {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.Card--Icons--Actions li {
+  margin: 0 0.2rem;
+  font-size: 0.7rem;
+}
