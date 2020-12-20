@@ -1,0 +1,14 @@
+.Card {
+  border-radius: 0.2rem;
+  background-color: #eceaea;
+  box-shadow: 1px 1px 4px 0px rgba(26,26,26,0.57);
+  margin: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+.Card--Inner--Image {
+  width: 100%;
+}
