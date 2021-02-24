@@ -36,6 +36,33 @@ export default {
       title: 'Social Network React.js',
       label: 'social-network-react-js',
       description: 'Este es un ejemplo de red social hecho en React utilizando DummyAPI para obtener posts de mascotas.'
-    }
+    },
+    {
+      id: 104,
+      imageUrl: 'https://andresfmj-portfolio-images.s3.amazonaws.com/project-102.png',
+      projectUrl: 'https://github.com/ferdinania/fm-faq-accordion',
+      websiteUrl: 'https://condescending-poitras-c70b61.netlify.app/',
+      title: 'FAQ Accordion Component en React.js',
+      label: 'faq-accordion-component-react-js',
+      description: 'Este componente hace parte de un desafio frontend en el que apliqué conceptos de react y mobile first.'
+    },
+    {
+      id: 105,
+      imageUrl: 'https://andresfmj-portfolio-images.s3.amazonaws.com/project-103.png',
+      projectUrl: 'https://github.com/ferdinania/Profile-Card-Component',
+      websiteUrl: 'https://lucid-noyce-a42b64.netlify.app/',
+      title: 'Profile Card Componente React.js',
+      label: 'profile-card-component-react-js',
+      description: 'Este componente hace parte de un desafio frontend en el que apliqué conceptos de react y mobile first.'
+    },
+    {
+      id: 106,
+      imageUrl: 'https://andresfmj-portfolio-images.s3.amazonaws.com/project-104.png',
+      projectUrl: 'https://github.com/andresfmj/fm-social-proof-section',
+      websiteUrl: 'https://fm-social-proof-section-chi.vercel.app/',
+      title: 'Social Proof Concept',
+      label: 'social-proof-concept',
+      description: 'Desafio Frontend en el que se validó conceptos a partir de este prototipo como se deberia visualizar el feedback de los clientes en un sitio web.'
+    },
   ]
 };
