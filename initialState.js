@@ -64,5 +64,14 @@ export default {
       label: 'social-proof-concept',
       description: 'Desafio Frontend en el que se validó conceptos a partir de este prototipo como se deberia visualizar el feedback de los clientes en un sitio web.'
     },
+    {
+      id: 107,
+      imageUrl: 'https://andresfmj-portfolio-images.s3.amazonaws.com/project-107.png',
+      projectUrl: 'https://gitlab.com/hacker-news-andres',
+      websiteUrl: 'http://hn.ferdinania.com/',
+      title: 'Hackernews Feed',
+      label: 'hackernews-feed',
+      description: 'Cliente que extrae el feed oficial de hackernews, lo guarda en una base de datos local en MongoDB y lo visualiza a través de un frontend en React.js'
+    },
   ]
 };
