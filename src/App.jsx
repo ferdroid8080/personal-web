@@ -14,7 +14,7 @@ function App()
     <AppContext.Provider value={initialState}>
       <div className='App'>
         <hgroup className='text-center'>
-          <h3>These are my works</h3>
+          <h1>These are my works</h1>
           <h4>
             <a href="https://github.com/ferdroid8080">github</a>
           </h4>
