@@ -14,9 +14,9 @@ function App()
     <AppContext.Provider value={initialState}>
       <div className='App'>
         <hgroup className='text-center'>
-          <h1>My Projects</h1>
+          <h3>These are my works</h3>
           <h4>
-            <a href="https://github.com/andresfmj">github</a>
+            <a href="https://github.com/ferdroid8080">github</a>
           </h4>
         </hgroup>
         <Projects projects={initialState.projects} />
